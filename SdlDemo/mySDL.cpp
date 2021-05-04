@@ -30,7 +30,7 @@ int MySDL::sendYUV2SDL(FILE* fp,int x,int y,int pixel_w ,int pixel_h
 		return -1;
 	}
 	//3 创建渲染器
-	SDL_Renderer* sdlRenderer = SDL_CreateRenderer(screen, -1, 0);
+	SDL_Renderer* sdlRenderer = SDL_CreateRenderer(screen, -1, SDL_RendererFlags::SDL_RENDERER_SOFTWARE);
 
 	Uint32 pixformat = 0;
 	//IYUV: Y + U + V  (3 planes)
@@ -38,7 +38,7 @@ int MySDL::sendYUV2SDL(FILE* fp,int x,int y,int pixel_w ,int pixel_h
 	pixformat = SDL_PIXELFORMAT_IYUV;
 
 	//4 创建纹理
-	SDL_Texture* sdlTexture = SDL_CreateTexture(sdlRenderer, pixformat, SDL_TEXTUREACCESS_STREAMING, pixel_w, pixel_h);
+	SDL_Texture* sdlTexture = SDL_CreateTexture(sdlRenderer, pixformat, SDL_TextureAccess::SDL_TEXTUREACCESS_STREAMING, pixel_w, pixel_h);
 
 	//5 创建播放显示位置的 矩形坐标：左上点+长宽
 	SDL_Rect sdlRect;
@@ -46,6 +46,7 @@ int MySDL::sendYUV2SDL(FILE* fp,int x,int y,int pixel_w ,int pixel_h
 	//unsigned char buffer[pixel_w*pixel_h*bpp / 8];
 	unsigned char* buffer = new unsigned char[pixel_w*pixel_h*bpp / 8];
 	while (1) {
+		//Y的是宽*高，U\V分别是宽*高/4，即（宽*高）*（1+1/2）
 		if (fread(buffer, 1, pixel_w*pixel_h*bpp / 8, fp) != pixel_w*pixel_h*bpp / 8) {
 			// Loop
 			fseek(fp, 0, SEEK_SET);
