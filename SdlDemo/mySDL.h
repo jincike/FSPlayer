@@ -5,6 +5,12 @@ extern "C"
 {
 #include "SDL.h" 
 }
+
+//Refresh Event
+#define REFRESH_EVENT  (SDL_USEREVENT + 1)
+//Break
+#define BREAK_EVENT  (SDL_USEREVENT + 2)
+
 class MySDL
 {
 public:
@@ -20,11 +26,12 @@ public:
 	***********/
 	int sendYUV2SDL(FILE* fp, int x, int y, int pixel_w, int pixel_h
 		, int screen_w, int screen_h,int msec =25);
-	
+	static int refreshVideo(void *);//静态成员函数才能使用函数指针
 protected:
 private:
 	static MySDL* instance;
-	
+	//bool thread_exit =true;
+	SDL_Event m_event;
 	class gcInstance {
 	public:
 		~gcInstance()
