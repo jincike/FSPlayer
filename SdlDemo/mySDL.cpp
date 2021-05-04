@@ -4,6 +4,7 @@
 MySDL* MySDL::instance = nullptr;
 static bool threadExit = true;
 static bool startPushEvent = true;
+static int delayTimemsec = 40;//25帧
 std::mutex m_mutex;
 
 MySDL* MySDL::getInstance() {
@@ -54,28 +55,28 @@ int MySDL::sendYUV2SDL(FILE* fp,int x,int y,int pixel_w ,int pixel_h
 		switch (m_event.type)
 		{
 		case REFRESH_EVENT://更新每一帧
-			{
-				//Y的是宽*高，U\V分别是宽*高/4，即（宽*高）*（1+1/2）
-				if (fread(buffer, 1, pixel_w*pixel_h*bpp / 8, fp) != pixel_w*pixel_h*bpp / 8) {
-					// 读取最后一帧
-					fseek(fp, 0, SEEK_SET);
-					fread(buffer, 1, pixel_w*pixel_h*bpp / 8, fp);
-				}
-				//6 更新buffer里的YUV到纹理
-				SDL_UpdateTexture(sdlTexture, NULL, buffer, pixel_w);
-
-				sdlRect.x = 0;
-				sdlRect.y = 0;
-				sdlRect.w = screen_w;
-				sdlRect.h = screen_h;
-
-				//7 清空渲染器，拷贝纹理到渲染器，渲染器播放出来
-				SDL_RenderClear(sdlRenderer);
-				SDL_RenderCopy(sdlRenderer, sdlTexture, NULL, &sdlRect);
-				SDL_RenderPresent(sdlRenderer);
-				//SDL_Delay(msec);//控制播放速度交给了线程
+		{
+			//Y的是宽*高，U\V分别是宽*高/4，即（宽*高）*（1+1/2）
+			if (fread(buffer, 1, pixel_w*pixel_h*bpp / 8, fp) != pixel_w*pixel_h*bpp / 8) {
+				// 读取最后一帧
+				fseek(fp, 0, SEEK_SET);
+				fread(buffer, 1, pixel_w*pixel_h*bpp / 8, fp);
 			}
-			break;
+			//6 更新buffer里的YUV到纹理
+			SDL_UpdateTexture(sdlTexture, NULL, buffer, pixel_w);
+
+			sdlRect.x = 0;
+			sdlRect.y = 0;
+			sdlRect.w = screen_w;
+			sdlRect.h = screen_h;
+
+			//7 清空渲染器，拷贝纹理到渲染器，渲染器播放出来
+			SDL_RenderClear(sdlRenderer);
+			SDL_RenderCopy(sdlRenderer, sdlTexture, NULL, &sdlRect);
+			SDL_RenderPresent(sdlRenderer);
+			//SDL_Delay(msec);//控制播放速度交给了线程
+		break;
+		}
 		case SDL_WINDOWEVENT:
 			//引用传出窗口大小的改变
 			SDL_GetWindowSize(screen, &screen_w, &screen_h);
@@ -87,15 +88,30 @@ int MySDL::sendYUV2SDL(FILE* fp,int x,int y,int pixel_w ,int pixel_h
 			flag = false;
 			break;
 		case SDL_KEYUP:
+		{
+			switch (m_event.key.keysym.sym)
 			{
-				if (m_event.key.keysym.sym == SDLK_SPACE) {
-					startPushEvent = !startPushEvent;
+			case SDLK_SPACE:
+				startPushEvent = !startPushEvent;
+				break;
+			case SDLK_ESCAPE:
+				flag = false;
+				break;
+			case SDLK_RIGHT:
+				delayTimemsec = delayTimemsec - 5;
+				if (delayTimemsec < 5)
+				{
+					delayTimemsec = 5;
 				}
-				else if (m_event.key.keysym.sym == SDLK_ESCAPE) {
-					SDL_Log("ESC is pressed , it will exit \n");
-					break;
-				}
+				break;
+			case SDLK_LEFT:
+				delayTimemsec = delayTimemsec + 5;
+				break;
+			default:
+				break;
 			}
+			break;
+		}
 		default:
 			break;
 		}
@@ -117,7 +133,7 @@ int MySDL::refreshVideo(void *){//形参不能丢
 		if (startPushEvent) {
 			SDL_PushEvent(&event);
 		}
-		SDL_Delay(40);//每隔40毫秒发送一个刷新事件
+		SDL_Delay(delayTimemsec);//每隔40毫秒发送一个刷新事件
 	}
 	threadExit = true;
 	//Break
