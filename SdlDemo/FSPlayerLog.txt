@@ -1,0 +1,1770 @@
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 
+Pool race dectected, spining to avoid overallocation and eventual OOM
+begin:Titanic.tsformat2stream,begin...Format mpegts probed with size=2048 and score=100
+stream=0 stream_type=1b pid=100 prog_reg_desc=
+stream=1 stream_type=3 pid=101 prog_reg_desc=
+Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0
+All programs have pmt, headers found
+no picture 
+All info found
+rfps: 23.416667 0.018094
+rfps: 23.500000 0.013104
+rfps: 23.500000 0.013104
+rfps: 23.583333 0.008917
+rfps: 23.666667 0.005533
+rfps: 23.750000 0.002953
+rfps: 23.750000 0.002953
+rfps: 23.833333 0.001177
+rfps: 23.833333 0.001177
+rfps: 23.916667 0.000203
+rfps: 23.916667 0.000203
+rfps: 24.000000 0.000033
+rfps: 24.000000 0.000033
+rfps: 24.083333 0.000667
+rfps: 24.083333 0.000667
+rfps: 24.166667 0.002104
+rfps: 24.166667 0.002104
+rfps: 24.250000 0.004344
+rfps: 24.333333 0.007387
+rfps: 24.333333 0.007387
+rfps: 24.416667 0.011234
+rfps: 24.500000 0.015884
+rfps: 47.416667 0.016572
+rfps: 47.500000 0.011813
+rfps: 47.500000 0.011813
+rfps: 47.583333 0.007858
+rfps: 47.666667 0.004707
+rfps: 47.750000 0.002359
+rfps: 47.750000 0.002359
+rfps: 47.833333 0.000814
+rfps: 47.833333 0.000814
+rfps: 47.916667 0.000072
+rfps: 47.916667 0.000072
+rfps: 48.000000 0.000134
+rfps: 48.000000 0.000134
+rfps: 48.083333 0.000999
+rfps: 48.083333 0.000999
+rfps: 48.166667 0.002667
+rfps: 48.250000 0.005139
+rfps: 48.250000 0.005139
+rfps: 48.333333 0.008414
+rfps: 48.333333 0.008414
+rfps: 48.416667 0.012493
+rfps: 48.500000 0.017375
+rfps: 23.976024 0.000000
+rfps: 23.976024 0.000000
+rfps: 47.952048 0.000000
+rfps: 47.952048 0.000000
+After avformat_find_stream_info() pos: 0 bytes read:315536 seeks:2 frames:56
+detected 4 logical cores
+no picture 
+no picture 

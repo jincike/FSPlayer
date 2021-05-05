@@ -27,15 +27,21 @@
     <ClInclude Include="mySDL.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Decodec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="SdlDemo.cpp">
+    <ClCompile Include="mySDL.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="mySDL.cpp">
+    <ClCompile Include="FSPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Decodec.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

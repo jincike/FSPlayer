@@ -3,7 +3,7 @@
 #define SDL_MAIN_HANDLED
 extern "C"
 {
-#include "SDL.h" 
+#include "sdl/SDL.h" 
 }
 
 //Refresh Event
@@ -14,9 +14,10 @@ extern "C"
 class MySDL
 {
 public:
-	MySDL() {};
+	MySDL();
 	~MySDL() {};
 	static MySDL* getInstance();
+	
 	/**********
 	*YUV数据发送到SDL库播放
 	*fp[in]文件
@@ -26,12 +27,21 @@ public:
 	***********/
 	int sendYUV2SDL(FILE* fp, int x, int y, int pixel_w, int pixel_h
 		, int screen_w, int screen_h,int msec =25);
+	//内存中直接将每一帧YUV送到SDL，不转存硬盘
+	int sendYUV2SDLDirect(void*data, int pitch, int x, int y, int pixel_w, int pixel_h
+		, int screen_w, int screen_h, int msec);
+	static int onSdlEvent(void *);
 	static int refreshVideo(void *);//静态成员函数才能使用函数指针
 protected:
 private:
 	static MySDL* instance;
-	//bool thread_exit =true;
+	
+	bool firstFlag = true;
 	SDL_Event m_event;
+	SDL_Renderer* sdlRenderer = nullptr;
+	SDL_Texture* sdlTexture = nullptr;
+	SDL_Rect sdlRect;
+	
 	class gcInstance {
 	public:
 		~gcInstance()
